@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/content.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
